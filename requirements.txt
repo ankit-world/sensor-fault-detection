@@ -6,4 +6,5 @@ dill = 0.3.6
 PyYAML = 6.0
 scipy = 1.7.3
 imblearn = 0.0
+xgboost = 1.6.2
 -e .
