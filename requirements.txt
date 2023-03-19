@@ -10,4 +10,5 @@ xgboost == 1.6.2
 fastapi == 0.94.1
 uvicorn == 0.21.1
 python-multipart == 0.0.6
+certifi == 2022.12.7
 -e .
