@@ -6,6 +6,6 @@ COPY . /app
 
 RUN pip install -r requirements.txt
 
-EXPOSE 5000
+EXPOSE 8080
 
-CMD ["python3", "main.py", "--host", "0.0.0.0", "--port", "5000"]
+CMD ["python3", "main.py", "--host", "0.0.0.0", "--port", "8080"]
