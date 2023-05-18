@@ -92,4 +92,5 @@ if __name__ == '__main__':
     # except Exception as e:
     #     #logging.exception(e)
     #     raise SensorException(e, sys)
+    
     app_run(app, host=APP_HOST, port=APP_PORT)
