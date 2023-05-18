@@ -64,4 +64,4 @@ AWS_ECR_LOGIN_URI=837453223154.dkr.ecr.ap-south-1.amazonaws.com
 
 ECR_REPOSITORY_NAME=sensor-ecr
 
-MONGO_DB_URL=mongodb+srv://mongodb:mongodb@cluster0.pfkbq.mongodb.net/?retryWrites=true&w=majoritye&ssl=true
+MONGODB_URL=mongodb+srv://mongodb:mongodb@cluster0.pfkbq.mongodb.net/?retryWrites=true&w=majoritye&ssl=true
